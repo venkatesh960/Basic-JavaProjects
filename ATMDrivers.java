@@ -41,6 +41,7 @@ public class ATMDrivers {
 			default:
 			{
 				System.out.println("Enter Valid Option");
+				sc.close();
 			}
 			break;
 			}
